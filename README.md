@@ -1,1 +1,3 @@
-# nba-player-salary-predictions
+# nba-salary-predictions
+
+### CMSC 320 Final Project
